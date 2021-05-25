@@ -1,4 +1,4 @@
-# FoodBlog-website
-Responsive website using HTML5 and CSS only 
-/n Check out Website using this link 
-https://adarshjain1338.github.io/FoodBlog-website/
+# FoodBlog-website<br>
+"*Responsive website*" using HTML5 and CSS only 
+<br> Check out Website using this link 
+<br>https://adarshjain1338.github.io/FoodBlog-website/
